@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dw
+* source:	https://sketchfab.com/3d-models/dw-4e6b5e85c0084a7aa772ee8c20e6344a
+* author:	usmanova.alina (https://sketchfab.com/usmanova.alina.170901)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dw" (https://sketchfab.com/3d-models/dw-4e6b5e85c0084a7aa772ee8c20e6344a) by usmanova.alina (https://sketchfab.com/usmanova.alina.170901) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
